@@ -1,3 +1,4 @@
+//Ensure atomicity is not violated when reading and writing 64-bit values
 // Non-Compliant Code
 public class AtomicExample {
     private long count;
