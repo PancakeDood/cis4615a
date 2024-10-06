@@ -1,3 +1,4 @@
+// Do not catch NullPointerException or any of its ancestors
 // Non-Compliant Code
 public class NullPointerExample {
     public static void main(String[] args) {
