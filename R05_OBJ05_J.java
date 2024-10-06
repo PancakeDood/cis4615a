@@ -1,3 +1,4 @@
+//Do not return references to private mutable class members
 import java.util.ArrayList;
 import java.util.List;
 
