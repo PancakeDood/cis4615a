@@ -1,3 +1,4 @@
+//Release resources when they are no longer needed
 import java.io.*;
 
 // Non-Compliant Code
