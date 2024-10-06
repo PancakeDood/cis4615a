@@ -1,3 +1,4 @@
+//Do not synchronize on objects that may be reused
 // Non-Compliant Code
 public class LockExample {
     private final String lock = "LOCK";  // A string literal that can be reused
